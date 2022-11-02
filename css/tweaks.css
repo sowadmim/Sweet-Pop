@@ -94,52 +94,57 @@ browser[type=content] > html {
   position: relative !important;
 }
 
-/* Minimize Button */
-.titlebar-min,
-#minimize-button {
-  list-style-image: url("../icons/min.svg") !important;
-  -moz-default-appearance: none !important;
-}
+/* ============================ Window Button Icon ============================ */
+/* ============== Uncomment this styles to get back sweet window icon ========= */
 
-.titlebar-min:hover,
-#minimize-button:hover {
-  list-style-image: url("../icons/min_hover.svg") !important;
-  -moz-default-appearance: none !important;
-}
+/* Minimize Button */
+/* .titlebar-min, */
+/* #minimize-button { */
+/*   list-style-image: url("../icons/min.svg") !important; */
+/*   -moz-default-appearance: none !important; */
+/* } */
+
+/* .titlebar-min:hover, */
+/* #minimize-button:hover { */
+/*   list-style-image: url("../icons/min_hover.svg") !important; */
+/*   -moz-default-appearance: none !important; */
+/* } */
 
 /* Maximize Button */
-.titlebar-max,
-.titlebar-restore,
-#max-button,
-#restore-button {
-  list-style-image: url("../icons/max_restore.svg") !important;
-  -moz-default-appearance: none !important;
-}
+/* .titlebar-max, */
+/* .titlebar-restore, */
+/* #max-button, */
+/* #restore-button { */
+/*   list-style-image: url("../icons/max_restore.svg") !important; */
+/*   -moz-default-appearance: none !important; */
+/* } */
 
-.titlebar-max:hover,
-#max-button:hover {
-  list-style-image: url("../icons/max_hover.svg") !important;
-  -moz-default-appearance: none !important;
-}
+/* .titlebar-max:hover, */
+/* #max-button:hover { */
+/*   list-style-image: url("../icons/max_hover.svg") !important; */
+/*   -moz-default-appearance: none !important; */
+/* } */
 
-.titlebar-restore:hover,
-#restore-button:hover {
-  list-style-image: url("../icons/restore_hover.svg") !important;
-  -moz-default-appearance: none !important;
-}
+/* .titlebar-restore:hover, */
+/* #restore-button:hover { */
+/*   list-style-image: url("../icons/restore_hover.svg") !important; */
+/*   -moz-default-appearance: none !important; */
+/* } */
 
 /* Close Button */
-.titlebar-close,
-#close-button {
-  list-style-image: url("../icons/closew.svg") !important;
-  -moz-default-appearance: none !important;
-}
+/* .titlebar-close, */
+/* #close-button { */
+/*   list-style-image: url("../icons/closew.svg") !important; */
+/*   -moz-default-appearance: none !important; */
+/* } */
 
-.titlebar-close:hover,
-#close-button:hover {
-  list-style-image: url("../icons/close_hover.svg") !important;
-  -moz-default-appearance: none !important;
-}
+/* .titlebar-close:hover, */
+/* #close-button:hover { */
+/*   list-style-image: url("../icons/close_hover.svg") !important; */
+/*   -moz-default-appearance: none !important; */
+/* } */
+
+/* ============================ Window Button Icon ============================ */
 
 /* Disable What's New and Exit from Hamburger */
 #appMenu-whatsnew-button,
