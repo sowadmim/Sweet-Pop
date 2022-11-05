@@ -276,7 +276,7 @@ url-prefix(view-source:) {
 :root {
   --addon-icon-size: 26px !important; --card-padding: 14px !important;
   scrollbar-color: rgb(29, 33, 38) rgba(0, 0, 0, 0);
-  scrollbar-width: thin;
+  scrollbar-width: medium;
 }
 
 
