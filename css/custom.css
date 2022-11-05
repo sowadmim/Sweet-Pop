@@ -1,0 +1,12 @@
+#customizableui-special-spring1,
+#customizableui-special-spring2 {
+  display: none !important;
+}
+
+#reader-mode-button {
+  width: 0px !important;
+}
+
+#nav-bar-overflow-button {
+  padding: 0px !important;
+}

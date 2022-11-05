@@ -3,7 +3,7 @@
 @import "userContent.css";
 
 @import "css/responsiveNavbar.css";
-@import "css/popups.css";
+/* @import "css/popups.css"; */
 @import "css/overflowMenu.css";
 @import "css/findbar.css";
 @import "css/library.css";
@@ -11,6 +11,7 @@
 @import "css/tabbar.css";
 @import "css/tweaks.css";
 
+@import "css/custom.css";
 
 @media (-moz-os-version: windows-win10) {
 
